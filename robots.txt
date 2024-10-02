@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cbaast.github.io/ono/sitemap.ono.gz
